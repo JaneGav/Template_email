@@ -1,0 +1,22 @@
+@import 'settings';
+@import 'foundation-emails';
+
+@import 'template/template';
+
+.tiny-text {
+  color:$dark-grey;
+}
+
+.no-bg {
+  background-color: transparent !important;
+}
+
+.main-cont {
+  border-radius: 8px;
+}
+
+.decorative-line {
+  background: $grey;
+  height: 2px;
+}
+
